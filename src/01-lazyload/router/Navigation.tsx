@@ -6,7 +6,6 @@ import LazyPage3 from "../pages/LazyPage3"
 const Navigation = () => {
 
     const { path, url } = useRouteMatch()
-    console.log("")
     return (
         <>
             <h2>LazyLayout Pages</h2>
