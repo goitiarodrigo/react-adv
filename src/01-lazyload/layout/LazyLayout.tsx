@@ -1,5 +1,6 @@
 import Navigation from "../router/Navigation"
 
+
 const LazyLayout = () => {
     return (
         <>
